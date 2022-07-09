@@ -1,0 +1,1 @@
+pip install stumpy yfinance ipykernel plotly matplotlib pandas nbformat
